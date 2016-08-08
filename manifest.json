@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub Night Mode",
+  "version": "0.1.0",
+  "description": "A Chrome extension to experience GitHub in night mode",
+  "author": "Amit Merchant <bullredeyes@gmail.com>",
+  "content_scripts": [{
+    "css": ["style.css"],
+    "matches": ["https://github.com/*"]
+  }]
+}

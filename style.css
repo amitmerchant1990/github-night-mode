@@ -1,0 +1,305 @@
+/*
+* GitHub Night Mode v0.1.0
+* The MIT License (MIT)
+* Copyright (c) 2016 Amit Merchant <bullredeyes@gmail.com>
+ */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    line-height: 1.5;
+    color: #fff !important;
+    background-color: #10232e !important;
+}
+
+.boxed-group>h3, .boxed-group .heading {
+    display: block;
+    padding: 9px 10px 10px;
+    margin: 0;
+    font-size: 14px;
+    line-height: 17px;
+    background-color: #10232e !important;
+    border: 1px solid #d8d8d8 !important;
+    border-bottom: 0;
+    border-radius: 3px 3px 0 0;
+}
+
+.conversation-list-heading .inner {
+    position: relative;
+    top: -10px;
+    display: inline-block;
+    padding: 0 5px;
+    background: #10232e !important;
+}
+
+.text-emphasized {
+    font-weight: 600;
+    color: #dcd3d3 !important;
+}
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #10232e !important;
+    border-bottom: 1px solid #7d7d7d !important;
+}
+
+.header-nav-link {
+    display: block;
+    padding: 4px 8px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #fff !important;
+}
+
+.boxed-group-inner {
+    padding: 10px;
+    color: #666 !important;
+    background: #10232e !important;
+    border: 1px solid #aba7a7 !important;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.blankslate {
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    background-color: #193444 !important;
+    border: 1px solid #757575 !important;
+    border-radius: 3px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.05);
+    color: #fff !important;
+}
+
+.protip code {
+    padding: 2px;
+    background-color: #f4f4f4;
+    border-radius: 3px;
+    color: #000 !important;
+}
+
+.header-logo-invertocat{
+    color: #FFF !important;
+}
+
+.header-logo-invertocat:hover{
+    color: #4078c0 !important;
+}
+
+a {
+    color: #528dda !important;
+    text-decoration: none;
+}
+
+.mini-repo-list-item .repo-description {
+    display: block;
+    max-width: 100%;
+    font-size: 12px;
+    line-height: 21px;
+    color: #c1c1c1 !important;
+}
+
+.vcard-username {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    color: #c5c5c5 !important;
+}
+
+.user-profile-bio {
+    margin-bottom: 12px;
+    overflow: hidden;
+    font-size: 14px;
+    color: #bbbbbb !important;
+}
+
+.tabnav-tab.selected {
+    color: #333;
+    background-color: #10232e;
+    border-color: #ddd !important;
+    border-radius: 3px 3px 0 0;
+}
+
+.news .alert .simple .title {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: normal;
+    color: #afafaf !important;
+}
+
+.news .alert {
+    position: relative;
+    padding: 0 0 1em 45px;
+    overflow: hidden;
+    border-top: 1px solid #696969 !important;
+}
+
+.filter-bar {
+    padding: 10px;
+    background-color: #10232e !important;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.readme .markdown-body, .readme .plain {
+    padding: 45px;
+    word-wrap: break-word;
+    background-color: #10232e !important;
+    border: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.commit-tease {
+    position: relative;
+    padding: 10px;
+    margin-bottom: -1px;
+    font-size: 13px;
+    line-height: 20px;
+    color: #68777d;
+    background-color: #10232e !important;
+    border: 1px solid #c9e6f2;
+    border-radius: 3px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.repohead.experiment-repo-nav {
+    padding-bottom: 0;
+    background-color: #10232e !important;
+}
+
+.reponav-item.selected {
+    color: #111;
+    background-color: #10232e !important;
+    border-color: #d26911 #e5e5e5 transparent;
+}
+
+.markdown-body pre code, .markdown-body pre tt {
+    color: #000 !important;
+}
+
+.markdown-body img {
+    max-width: 100%;
+    box-sizing: content-box;
+    background-color: #10232e !important;
+}
+
+.ajax-pagination-form .ajax-pagination-btn {
+    width: 100%;
+    padding: 6px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #6997d2 !important;
+    background: #1b3544 !important;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+}
+
+.mini-repo-list-item {
+    border-top: 1px solid #909090 !important;
+}
+
+.link-gray-dark {
+    color: #8c8c8c !important;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    width: 160px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2px;
+    background-color: #192f3c !important;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 4px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.15);
+}
+
+.dropdown-menu::after {
+    border: 7px solid transparent;
+    border-bottom-color: #192f3c !important;
+}
+
+.dropdown-signout {
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: 0;
+    color: #528dda !important;
+}
+
+.tabnav-tab.selected {
+    color: #333;
+    background-color: #10232e !important;
+    border-color: #ddd;
+    border-radius: 3px 3px 0 0;
+}
+
+.file table{
+    background: #fff !important;
+}
+
+.file-info {
+    float: left;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 12px;
+    line-height: 32px;
+    color: #000 !important;
+}
+
+.breadcrumb strong.final-path {
+    color: #886e6e !important;
+}
+
+.octofication .broadcast-icon-mask {
+    position: absolute;
+    top: 0;
+    width: 10px;
+    height: 16px;
+    background-color: #10232e !important;
+    opacity: 0;
+    -webkit-animation: broadCastMaskFade 1s ease-in-out 2s 2;
+    animation: broadCastMaskFade 1s ease-in-out 2s 2;
+}
+
+.octofication .message p {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    color: #a0a0a0 !important;
+}
+
+.mini-repo-list-item .repo-icon {
+    color: #bbb !important;
+}
+
+.dropdown-item:hover, .dropdown-item.zeroclipboard-is-hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #004db1 !important;
+}
+
+.outline-box-highlighted {
+    background-color: #10232e !important;
+    border-color: #c9d6e3;
+}
+
+pre {
+    margin-top: 0;
+    margin-bottom: 0;
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: #000 !important;
+}
+
+.dropdown-header {
+    padding: 4px 15px;
+    font-size: 12px;
+    color: #d0d0d0 !important;
+}
