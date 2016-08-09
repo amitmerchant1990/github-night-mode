@@ -1,0 +1,6 @@
+{
+  "name": "GitHub-night-mode",
+  "tagline": "A Chrome extension to experience GitHub in night mode",
+  "body": "GitHub Night Mode\r\n=================\r\n> A Chrome extension to experience GitHub in night mode\r\n\r\n### Install\r\n\r\nTo install the extension, download [the sourcecode](https://github.com/amitmerchant1990/github-night-mode/archive/master.zip), visit `chrome://extensions` in Chrome and drag the folder containing the above files into the window.\r\n\r\n![install](https://raw.githubusercontent.com/amitmerchant1990/github-night-mode/master/res/github-night-mode-install.gif)\r\n\r\nBoom! You have your all new GitHub in night mode. :tada:\r\n\r\n### License\r\n\r\nMIT (c) [Amit Merchant](https://www.amitmerchant.com/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
