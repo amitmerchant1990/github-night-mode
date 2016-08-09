@@ -303,3 +303,7 @@ pre {
     font-size: 12px;
     color: #d0d0d0 !important;
 }
+
+rect.day{
+  opacity: 0.5;
+}
