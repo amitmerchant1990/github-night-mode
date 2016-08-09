@@ -1,6 +1,6 @@
 GitHub Night Mode
 =================
-> A Chrome extension to experience GitHub in night mode
+> A Chrome extension to experience GitHub in night mode :sunglasses: 
 
 ### Install
 
