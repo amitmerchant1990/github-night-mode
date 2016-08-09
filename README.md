@@ -4,7 +4,7 @@ GitHub Night Mode
 
 ### Install
 
-To install the extension, download [the sourcecode](https://github.com/amitmerchant1990/github-night-mode/archive/master.zip), visit chrome://extensions in Chrome and drag the folder containing the above files into the window.
+To install the extension, download [the sourcecode](https://github.com/amitmerchant1990/github-night-mode/archive/master.zip), visit `chrome://extensions` in Chrome and drag the folder containing the above files into the window.
 
 ![install](https://raw.githubusercontent.com/amitmerchant1990/github-night-mode/master/res/github-night-mode-install.gif)
 
