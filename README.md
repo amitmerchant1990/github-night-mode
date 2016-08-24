@@ -1,4 +1,4 @@
-GitHub Night Mode
+GitHub Night Mode ![](res/github-icon.png)
 =================
 > A Chrome extension to experience GitHub in night mode :sunglasses:
 
