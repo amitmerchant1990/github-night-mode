@@ -1,4 +1,4 @@
-GitHub Night Mode <img src="res/github-icon.png" alt="Markdownify" width="100" height="100">
+GitHub Night Mode <img src="res/github-icon.png" alt="Markdownify" width="40" height="40">
 =================
 > A Chrome extension to experience GitHub in night mode :sunglasses:
 
